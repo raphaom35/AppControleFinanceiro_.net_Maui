@@ -14,7 +14,7 @@ Application created for to help in your financial control
 </p>
 
 <div align="center">
-<img src="/controlefinanceiro.gif" width="550" />
+<img src="/controlefinanceiro.gif" width="550" height="650" />
 
 </div>
 
@@ -28,5 +28,5 @@ Application created for to help in your financial control
 
 1. Clone this repo using `git clone https://github.com/raphaom35/AppControleFinanceiro_.net_Maui.git`
 2. Move yourself to the appropriate directory: `cd AppControleFinanceiro_.net_Maui`<br />
-3. Open visual studio and run project  />
+3. Open visual studio and run project
 
